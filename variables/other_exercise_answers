@@ -1,0 +1,6 @@
+#Exercise 5
+#x should equal 3
+#x will give an error
+
+#Exercise 6
+#The program cannot access a variable called "shoes" because it has either not been creatd or is out of scope.
